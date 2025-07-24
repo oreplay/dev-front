@@ -1,0 +1,2 @@
+import{c as r,j as n}from"./index-CviqxJip.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="d94e54ff-02b3-4407-878b-afe75e9d4fdb",e._sentryDebugIdIdentifier="sentry-dbid-d94e54ff-02b3-4407-878b-afe75e9d4fdb")}catch{}const f=r(n("path",{d:"m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"}),"ArrowForward");export{f as A};
+//# sourceMappingURL=ArrowForward-Bl1mcM0S.js.map
