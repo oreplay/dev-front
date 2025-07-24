@@ -1,0 +1,2 @@
+import{r as d,y as t,j as s,G as a}from"./index-BLfwcZnC.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},n=new e.Error().stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="62152986-ccdc-4a3d-967b-c5aefb4f4cd0",e._sentryDebugIdIdentifier="sentry-dbid-62152986-ccdc-4a3d-967b-c5aefb4f4cd0")}catch{}function f(){return d.useEffect(()=>{t().then(e=>{window.location.replace(e)})},[]),s(a,{})}export{f as default};
+//# sourceMappingURL=InItSignIn-CC3_iiyz.js.map
